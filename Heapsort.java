@@ -28,7 +28,6 @@ public class Heapsort
 			heapMaximo(array, largo);
 		}
 	}
-
 	public static void intercambio(int i, int j){
 		int t=array[i];
 		array[i]=array[j];
