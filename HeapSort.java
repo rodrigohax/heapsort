@@ -1,4 +1,4 @@
-public class HeapSort
+public class Heapsort
 {
 	private static int[] array;
 	private static int n;
